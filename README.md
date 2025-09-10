@@ -1,6 +1,6 @@
 A campus drive application using Rest apis, streamlit and sqlite db built fully using agentic ai (crew ai framework). 
 
-AI conversation log for debugging- https://chatgpt.com/share/68c1c838-7d68-8006-9354-1dedacb2db39
+AI conversation logs- https://github.com/MaazAhmed213/CampusDriveAssessment_Webknot/blob/main/ai_conversationLog.md
 
 Used agentic ai framework instead of traditional prompting to make smooth, structured and fast code generation.
 We can reuse this code with prompt edits to make any application making quick reusability possible thanks to agentic ai.
