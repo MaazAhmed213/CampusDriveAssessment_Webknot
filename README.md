@@ -47,6 +47,8 @@ pip install flask flask-cors streamlit requests
 This code will automatically generate sql schema, design documentation, python code (api endpoints) and streamlit ui, all automatically by itself with zero human intervention. 
 Basically full application and documentations created using ai with zero human intervention. 
 
+MAKE SURE YOU HAVE MIN PYTHON 3.11
+
 1. setup new virtual environment-
 python -m venv venv
 
