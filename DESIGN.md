@@ -1,4 +1,4 @@
-# DESIGN.md
+# DESIGN_docs.md
 
 ## Campus Event Management Platform Design Document
 
