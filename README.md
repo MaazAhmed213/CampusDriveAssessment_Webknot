@@ -1,5 +1,7 @@
 A campus drive application using Rest apis, streamlit and sqlite db built fully using agentic ai (crew ai framework). 
 
+AI conversation log for debugging- https://chatgpt.com/share/68c1c838-7d68-8006-9354-1dedacb2db39
+
 Used agentic ai framework instead of traditional prompting to make smooth, structured and fast code generation.
 We can reuse this code with prompt edits to make any application making quick reusability possible thanks to agentic ai.
 
@@ -80,3 +82,4 @@ Its job is to create documentations. It reviewed the work of all the other agent
 
 All the agents interact together to provide fully functional, ready to use application with no human effort (effort put only to create this agentic ai solution).
 Using agentic ai methods, we can create agents who are masters of multiple technologies and make them work together to create any solutions.
+
